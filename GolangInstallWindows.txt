@@ -1,0 +1,40 @@
+# install eclipse
+
+# install golang
+https://golang.org/doc/install
+
+# create directory 
+C:\go 
+download zip file here
+
+c:\GoPath
+
+#set GLOBAL environment variables
+GOROOT => C:\go
+GOPATH => C:\GoPath
+
+# Add the following to the global path env variable
+%GOROOT%\bin
+%GOPATH%\bin
+
+
+# check if go is working properly
+open cmd and execute
+>go version
+
+# now install the following packages
+Gocode
+go get -u -ldflags -H=windowsgui github.com/nsf/gocode
+
+guru
+go get -u golang.org/x/tools/cmd/guru
+
+godef
+go get -u github.com/rogpeppe/godef
+
+
+# create a seperate workspace dir
+
+# start eclipse on that workspace
+
+# create a go project in location of GOPATH

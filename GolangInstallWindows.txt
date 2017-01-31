@@ -38,3 +38,9 @@ go get -u github.com/rogpeppe/godef
 # start eclipse on that workspace
 
 # create a go project in location of GOPATH
+
+# install goclipse in eclipse
+https://github.com/tschoots/godev_installation_man.git
+
+# install papyrus
+https://www.eclipse.org/papyrus/download.html

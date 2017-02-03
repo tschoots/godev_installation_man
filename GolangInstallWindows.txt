@@ -40,7 +40,7 @@ go get -u github.com/rogpeppe/godef
 # create a go project in location of GOPATH
 
 # install goclipse in eclipse
-https://github.com/tschoots/godev_installation_man.git
+http://goclipse.github.io/releases/
 
 # install papyrus
-https://www.eclipse.org/papyrus/download.html
+http://download.eclipse.org/modeling/mdt/papyrus/updates/releases/neon
